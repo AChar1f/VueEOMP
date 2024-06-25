@@ -5,16 +5,19 @@
 
     "Experience" : [
         {
+            "id" : 1,
             "xplocation" : "Habibia Primary School",
             "xpduration" : "Nov 2021 - Sep 2022",
             "xpdescription" : "Provided administrative support to teachers between grades 4 - 7 and assisted learners that struggled to keep up with the rest of the class. Liason between the teachers, principal and teacher assistants team."
         },
         {
+            "id" : 2,
             "xplocation" : "YDE & Truworths Cavendish",
             "xpduration" : "Dec 2022 - Jun 2023",
             "xpdescription" : "Provide excellent customer service by making use of my product knowledge to deliver an unparalleled customer service experience. "
         },
         {
+            "id" : 3,
             "xplocation" : "Life Choices",
             "xpduration" : "Apr 2024",
             "xpdescription" : "Began training in HTML , CSS , Bootstrap, JavaScript and Vuejs. Undergoing personal and professional developement trainings to reach greater heights in future for both career and personal life."
